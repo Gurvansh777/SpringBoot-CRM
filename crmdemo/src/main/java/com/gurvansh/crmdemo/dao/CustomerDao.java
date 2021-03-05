@@ -1,4 +1,4 @@
-package com.gurvansh.crmdemo.model.dao;
+package com.gurvansh.crmdemo.dao;
 
 import java.util.List;
 

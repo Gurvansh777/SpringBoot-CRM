@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 import com.gurvansh.crmdemo.model.Customer;
-import com.gurvansh.crmdemo.model.repository.CustomerRepository;
+import com.gurvansh.crmdemo.repository.CustomerRepository;
 
 @Controller
 public class CustomerController {

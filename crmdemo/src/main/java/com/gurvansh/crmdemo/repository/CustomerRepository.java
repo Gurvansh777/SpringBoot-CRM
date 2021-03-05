@@ -1,4 +1,4 @@
-package com.gurvansh.crmdemo.model.repository;
+package com.gurvansh.crmdemo.repository;
 
 import java.util.List;
 

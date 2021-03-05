@@ -1,12 +1,12 @@
-package com.gurvansh.crmdemo.model.repository;
+package com.gurvansh.crmdemo.repository;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
+import com.gurvansh.crmdemo.dao.CustomerDao;
 import com.gurvansh.crmdemo.model.Customer;
-import com.gurvansh.crmdemo.model.dao.CustomerDao;
 
 @Repository
 public class CustomerRepositoryImpl implements CustomerRepository {
